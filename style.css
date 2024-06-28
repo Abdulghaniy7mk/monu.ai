@@ -1,0 +1,12 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.frame {
+    width: 85%;
+    height: 100%;
+    border: none; /* Remove iframe border */
+    margin: 0; /* Remove any default margins */
+    padding: 0; /* Remove any default padding */
+}
